@@ -1,0 +1,2 @@
+resources/creatures/plants.png
+walk_down	1	64 352 32 32
